@@ -1,0 +1,4 @@
+# CODEOWNERS
+# Automatically request review from @gvegayon for all changes.
+# Format: each line is a file pattern followed by one or more owners.
+* @gvegayon
